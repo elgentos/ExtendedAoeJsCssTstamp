@@ -1,0 +1,13 @@
+{
+    "name": "elgentos/extendedaoejscsststamp",
+    "description": "Extends Aoe_JsCssTstamp to version all JS files",
+    "type": "magento-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "peterjaap",
+            "email": "peterjaap@elgentos.nl"
+        }
+    ],
+    "require": {}
+}

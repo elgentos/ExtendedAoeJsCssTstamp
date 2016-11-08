@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Elgentos_ExtendedAoeJsCssTstamp>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Aoe_JsCssTstamp/>
+
+            </depends>
+        </Elgentos_ExtendedAoeJsCssTstamp>
+    </modules>
+</config>
